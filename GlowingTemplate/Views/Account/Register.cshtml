@@ -1,0 +1,65 @@
+﻿@using GlowingTemplate.ViewModels.Account;
+@model RegisterVM
+
+
+<div class="container">
+    <div class=" text-center pt-13 mb-12 mb-lg-15">
+        <div class="text-center"><h2 class="fs-36px mb-11 mb-lg-14">Register</h2></div>
+    </div>
+    <div class="col-lg-5 col-md-8 mx-auto">
+        <form method="post">
+			<div class="col-md-12 col-12 mb--15">
+				<label asp-for="Name"></label>
+				<input class="mb-0 form-control" asp-for="Name"
+					   placeholder="Enter your Name">
+				<span asp-validation-for="Name"></span>
+			</div>
+			<div class="col-md-12 col-12 mb--15">
+				<label asp-for="Surname"></label>
+				<input class="mb-0 form-control" asp-for="Surname"
+					   placeholder="Enter your Surname">
+				<span asp-validation-for="Surname"></span>
+			</div>
+			<div class="col-md-12 col-12 mb--15">
+				<label asp-for="Username"></label>
+				<input class="mb-0 form-control" asp-for="Username"
+					   placeholder="Enter your Username">
+				<span asp-validation-for="Username"></span>
+			</div>
+			<div class="col-md-12 col-12 mb--15">
+				<label asp-for="Email"></label>
+				<input class="mb-0 form-control" asp-for="Email"
+					   placeholder="Enter your Email">
+				<span asp-validation-for="Email"></span>
+			</div>
+			<div class="col-md-12 col-12 mb--15">
+				<label asp-for="Password"></label>
+				<input class="mb-0 form-control" asp-for="Password"
+					   placeholder="Enter your Password">
+				<span asp-validation-for="Password"></span>
+			</div>
+			<div class="col-md-12 col-12 mb--15">
+				<label asp-for="ConfirmPassword"></label>
+				<input class="mb-0 form-control" asp-for="ConfirmPassword"
+					   placeholder="Enter your ConfirmPassword">
+				<span asp-validation-for="ConfirmPassword"></span>
+			</div>
+            <div class="form-check mb-7">
+                <input name="agree" type="checkbox" class="form-check-input rounded-0" id="agree_terms">
+                <label class="form-check-label text-secondary" for="agree_terms">
+                    Yes, I agree with Grace <a href="#" class="text-decoration-underline">Privacy Policy</a> and <a href="#" class="text-decoration-underline">Terms of Use</a>
+                </label>
+            </div>
+           
+            <button type="submit"  class="btn btn-primary w-100">Sign Up</button>
+            <div class="border-bottom mt-10"></div>
+            <div class="text-center mt-n4 lh-1 mb-7">
+                <span class="fs-14 bg-body lh-1 px-4">or Sign Up with</span>
+            </div>
+            <div class="d-flex">
+                <a href="#" class="btn btn-outline-primary w-100 px-2 font-weight-500 me-5"><i class="fab fa-facebook-f me-4" style="color: #2E58B2"></i>Facebook</a>
+                <a href="#" class="btn btn-outline-primary w-100 px-2 font-weight-500 mt-0"><i class="fab fa-google me-4" style="color: #DD4B39"></i>Google</a>
+            </div>
+        </form>
+    </div>
+</div>

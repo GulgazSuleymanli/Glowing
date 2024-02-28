@@ -1,0 +1,37 @@
+﻿@using GlowingTemplate.ViewModels;
+@model List<BasketItemVM>
+
+
+@foreach(var item in Model)
+{
+    <tr class="position-relative">
+        <td class="align-middle text-center">
+            <a href="#" class="d-block clear-product">
+                <i class="far fa-times"></i>
+            </a>
+        </td>
+        <td class="shop-product">
+            <div class="d-flex align-items-center">
+                <div class="me-6">
+                    <img src="~/upload/product/@item.ImgUrl" width="60" height="80" alt="natural coconut cleansing oil">
+                </div>
+                <div>
+                    <p class="card-text mb-1">
+                        <span class="fs-13px fw-500 text-decoration-line-through pe-3">$@item.Price</span>
+                        
+                    </p>
+                    <p class="fw-500 text-body-emphasis">@item.Name</p>
+                </div>
+            </div>
+        </td>
+        <td class="align-middle p-0">
+            <div class="input-group position-relative shop-quantity">
+                <a href="#" class="shop-down position-absolute z-index-2"><i class="far fa-minus"></i></a>
+                <input name="number[]" type="number" class="form-control form-control-sm px-6 py-4 fs-6 text-center border-0" value="1" required>
+                <a href="#" class="shop-up position-absolute z-index-2">
+                    <i class="far fa-plus"></i>
+                </a>
+            </div>
+        </td>
+    </tr>
+}

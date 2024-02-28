@@ -1,0 +1,1201 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GlowingTemplate.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GlowingTemplate.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\highlight.js\\11.6.0\\highlight.min.js",
+      "PackagePath": "staticwebassets\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\highlight.js\\11.6.0\\highlight.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\highlight.js\\11.6.0\\styles\\base16\\railscasts.min.css",
+      "PackagePath": "staticwebassets\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\highlight.js\\11.6.0\\styles\\base16\\railscasts.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\highlight.js\\11.7.0\\highlight.min.js",
+      "PackagePath": "staticwebassets\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\highlight.js\\11.7.0\\highlight.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\jquery\\3.6.0\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\jquery\\3.6.0\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\js-beautify\\1.14.7\\beautify-html.js",
+      "PackagePath": "staticwebassets\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\js-beautify\\1.14.7\\beautify-html.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\js-beautify\\1.14.7\\beautify-html.min.js",
+      "PackagePath": "staticwebassets\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\js-beautify\\1.14.7\\beautify-html.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\css\\docs.css",
+      "PackagePath": "staticwebassets\\assets\\css\\docs.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\css\\theme-black.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-black.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\css\\theme-home-09.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-home-09.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\css\\theme-home-18.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-home-18.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\css\\theme-landing.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-landing.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\css\\theme-orange.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-orange.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\css\\theme-red.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-red.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\css\\theme-violet.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-violet.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\background\\bg-about-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\bg-about-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\background\\bg-footer-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\bg-footer-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\background\\bg-landing-home-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\bg-landing-home-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\background\\bg-mega-menu-shop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\bg-mega-menu-shop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\banner\\Screenshot 2024-02-28 141855.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\Screenshot 2024-02-28 141855.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\banner\\Screenshot 2024-02-28 141900.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\Screenshot 2024-02-28 141900.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\banner\\Screenshot 2024-02-28 142026.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\Screenshot 2024-02-28 142026.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\banner\\banner-48.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\banner\\banner-white-42.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-white-42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\blog\\post-comment-avatar-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\post-comment-avatar-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\blog\\post-comment-avatar-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\post-comment-avatar-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\blog\\post-comment-avatar-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\post-comment-avatar-04.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\blog\\post-comment-avatar-05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\post-comment-avatar-05.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\blog\\post-comment-list-avatar.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\post-comment-list-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\dashboard\\avatar-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\dashboard\\flag-cn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\flag-cn.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\dashboard\\flag-fr.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\flag-fr.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\dashboard\\flag-jp.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\flag-jp.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\dashboard\\flag-us.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\flag-us.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\dashboard\\map.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\dashboard\\master-card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\master-card.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\dashboard\\upload.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\header\\hero-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\hero-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\header\\hero-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\hero-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\header\\hero-footer-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\hero-footer-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\header\\hero-footer-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\hero-footer-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\header\\hero-footer-shadow-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\hero-footer-shadow-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\header\\hero-footer-shadow-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\hero-footer-shadow-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\header\\hero-footer-shadow-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\hero-footer-shadow-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-28.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-29.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-30.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-31.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-38.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-40.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-41.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-42.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-43.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-44.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-02-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-02-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-40.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\hero-slider\\hero-slider-white-41.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\hero-slider-white-41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\instagram\\instagram-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\instagram\\instagram-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\instagram\\instagram-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\instagram\\instagram-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\instagram\\instagram-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\instagram\\instagram-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\landing\\landing-image-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\landing-image-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\Paypal.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\Paypal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\daily-skincare-bg-white.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\daily-skincare-bg-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\daily-skincare-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\daily-skincare-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\flag-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\flag-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\logo-black-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\logo-black-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\logo-white-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\logo-white-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\news-letter-background-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\news-letter-background-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\news-letter-background-white-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\news-letter-background-white-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\news-letter-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\news-letter-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\other-image-07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\other-image-07.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\video-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\video-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\video-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\video-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\video-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\others\\video-white-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\video-white-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\products\\product-03-75x100.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-03-75x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\products\\product-06-75x100.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-06-75x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\products\\product-09-75x100.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-09-75x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-gallery-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-gallery-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-gallery-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-gallery-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-gallery-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-gallery-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-gallery-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-gallery-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-gallery-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-gallery-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-gallery-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-gallery-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-gallery-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-gallery-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-gallery-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-gallery-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-gallery-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-gallery-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-gallery-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-gallery-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-gallery-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-gallery-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-info-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-info-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\images\\shop\\product-info-fire.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-info-fire.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\js\\dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\js\\doc.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\doc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\chartjs\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\chartjs\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\clipboard\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\clipboard\\clipboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\a-antara-distance\\aAntaraDistance.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\a-antara-distance\\aAntaraDistance.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\a-antara-distance\\aAntaraDistance.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\a-antara-distance\\aAntaraDistance.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\a-antara-distance\\stylesheet.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\a-antara-distance\\stylesheet.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\butler\\Butler-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\butler\\Butler-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\butler\\Butler-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\butler\\Butler-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\butler\\Butler-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\butler\\Butler-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\butler\\Butler-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\butler\\Butler-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\butler\\Butler.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\butler\\Butler.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\butler\\Butler.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\butler\\Butler.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\butler\\stylesheet.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\butler\\stylesheet.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\tuesday-night\\TuesdayNight-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\tuesday-night\\TuesdayNight-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\tuesday-night\\TuesdayNight-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\tuesday-night\\TuesdayNight-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fonts\\tuesday-night\\stylesheet.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fonts\\tuesday-night\\stylesheet.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\fuse\\fuse.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fuse\\fuse.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\gsap\\ScrollToPlugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\gsap\\ScrollToPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\gsap\\ScrollTrigger.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\gsap\\ScrollTrigger.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\gsap\\gsap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\gsap\\gsap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\jquery-toc\\jquery.toc.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-toc\\jquery.toc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\lightgallery\\css\\lightgallery-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightgallery\\css\\lightgallery-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\lightgallery\\fonts\\lgb687.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightgallery\\fonts\\lgb687.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\lightgallery\\fonts\\lgb687.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightgallery\\fonts\\lgb687.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\lightgallery\\fonts\\lgb687.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightgallery\\fonts\\lgb687.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\lightgallery\\fonts\\lgb687.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightgallery\\fonts\\lgb687.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\lightgallery\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightgallery\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\lightgallery\\lightgallery.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightgallery\\lightgallery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\lightgallery\\plugins\\thumbnail\\lg-thumbnail.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightgallery\\plugins\\thumbnail\\lg-thumbnail.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\lightgallery\\plugins\\video\\lg-video.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightgallery\\plugins\\video\\lg-video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\lightgallery\\plugins\\vimeoThumbnail\\lg-vimeo-thumbnail.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightgallery\\plugins\\vimeoThumbnail\\lg-vimeo-thumbnail.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\lightgallery\\plugins\\zoom\\lg-zoom.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightgallery\\plugins\\zoom\\lg-zoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\mapbox-gl\\mapbox-gl.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mapbox-gl\\mapbox-gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\mapbox-gl\\mapbox-gl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mapbox-gl\\mapbox-gl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\vanilla-lazyload\\lazyload.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\vanilla-lazyload\\lazyload.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\assets\\vendors\\waypoints\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\waypoints\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\manage\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\css\\style.css",
+      "PackagePath": "staticwebassets\\manage\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\manage\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\manage\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\chart.js",
+      "PackagePath": "staticwebassets\\manage\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\manage\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\manage\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\manage\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\manage\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\manage\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\manage\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\manage\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\js\\template.js",
+      "PackagePath": "staticwebassets\\manage\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\category\\244f0934-f2fa-42fd-8c60-25a472719794Screenshot 2024-02-22 135654.png",
+      "PackagePath": "staticwebassets\\upload\\category\\244f0934-f2fa-42fd-8c60-25a472719794Screenshot 2024-02-22 135654.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\category\\5e2028a3-f033-4ac3-af19-65e38e3599ddScreenshot 2024-02-22 135713.png",
+      "PackagePath": "staticwebassets\\upload\\category\\5e2028a3-f033-4ac3-af19-65e38e3599ddScreenshot 2024-02-22 135713.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\category\\c16f6e0e-92ab-43ce-ad93-80e3017f24c1post-comment-avatar-03.png",
+      "PackagePath": "staticwebassets\\upload\\category\\c16f6e0e-92ab-43ce-ad93-80e3017f24c1post-comment-avatar-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\category\\e780d955-7849-476e-9123-4c1ae3f68ae9hero-slider-12.jpg",
+      "PackagePath": "staticwebassets\\upload\\category\\e780d955-7849-476e-9123-4c1ae3f68ae9hero-slider-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\09e0d637-58fe-4901-bca1-e7ad42929a11product-gallery-06.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\09e0d637-58fe-4901-bca1-e7ad42929a11product-gallery-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\0c758b88-e1df-4d8b-91df-6877293a50f5product-gallery-08.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\0c758b88-e1df-4d8b-91df-6877293a50f5product-gallery-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\0de5c85b-bf2a-41bd-b67a-68fdf094558cproduct-gallery-06.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\0de5c85b-bf2a-41bd-b67a-68fdf094558cproduct-gallery-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\139667b3-25ef-4ac5-8fd2-ebf8d32e48c2product-gallery-06.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\139667b3-25ef-4ac5-8fd2-ebf8d32e48c2product-gallery-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\15faec1c-186c-4c81-9194-fad67b53852fproduct-gallery-02.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\15faec1c-186c-4c81-9194-fad67b53852fproduct-gallery-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\19292bbc-d207-43da-93f3-2ae4f77b4c38Screenshot 2024-02-22 222839.png",
+      "PackagePath": "staticwebassets\\upload\\product\\19292bbc-d207-43da-93f3-2ae4f77b4c38Screenshot 2024-02-22 222839.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\1b4207ba-1ec1-4f38-8ddb-0454027e4147product-gallery-02.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\1b4207ba-1ec1-4f38-8ddb-0454027e4147product-gallery-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\37065b0f-aa5e-4378-9fc9-421445af72afScreenshot 2024-02-22 140914.png",
+      "PackagePath": "staticwebassets\\upload\\product\\37065b0f-aa5e-4378-9fc9-421445af72afScreenshot 2024-02-22 140914.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\3885c381-5e26-4eb0-9c7b-5b6e8b971996Screenshot 2024-02-22 222857.png",
+      "PackagePath": "staticwebassets\\upload\\product\\3885c381-5e26-4eb0-9c7b-5b6e8b971996Screenshot 2024-02-22 222857.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\39c4d710-0e82-4193-b31e-5d050e31e4deScreenshot 2024-02-22 141549.png",
+      "PackagePath": "staticwebassets\\upload\\product\\39c4d710-0e82-4193-b31e-5d050e31e4deScreenshot 2024-02-22 141549.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\3ebde011-b8e9-4ea6-b0e9-62a54d749904product-gallery-08.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\3ebde011-b8e9-4ea6-b0e9-62a54d749904product-gallery-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\3f2b978e-c3b3-44a8-b083-00a9428d4aa9Screenshot 2024-02-22 224214.png",
+      "PackagePath": "staticwebassets\\upload\\product\\3f2b978e-c3b3-44a8-b083-00a9428d4aa9Screenshot 2024-02-22 224214.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\4723ed02-8974-46d2-9adc-1b591126e9aaproduct-gallery-04.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\4723ed02-8974-46d2-9adc-1b591126e9aaproduct-gallery-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\4ff33919-89bb-447f-920d-15f1eb5134beScreenshot 2024-02-22 223505.png",
+      "PackagePath": "staticwebassets\\upload\\product\\4ff33919-89bb-447f-920d-15f1eb5134beScreenshot 2024-02-22 223505.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\60252864-ef31-442a-b517-937761ed5615Screenshot 2024-02-22 224205.png",
+      "PackagePath": "staticwebassets\\upload\\product\\60252864-ef31-442a-b517-937761ed5615Screenshot 2024-02-22 224205.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\613163e3-275c-4178-b7e2-655926c78cadproduct-gallery-08.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\613163e3-275c-4178-b7e2-655926c78cadproduct-gallery-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\619c307e-9667-44e9-80d2-f038ccd1a539Screenshot 2024-02-22 141536.png",
+      "PackagePath": "staticwebassets\\upload\\product\\619c307e-9667-44e9-80d2-f038ccd1a539Screenshot 2024-02-22 141536.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\660c1ab4-6db7-4734-bb0a-9feac21e2fcfScreenshot 2024-02-22 223505.png",
+      "PackagePath": "staticwebassets\\upload\\product\\660c1ab4-6db7-4734-bb0a-9feac21e2fcfScreenshot 2024-02-22 223505.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\773bcef0-1f1d-41d6-b75b-0c52994d0153Screenshot 2024-02-22 140905.png",
+      "PackagePath": "staticwebassets\\upload\\product\\773bcef0-1f1d-41d6-b75b-0c52994d0153Screenshot 2024-02-22 140905.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\793e1b74-95d2-48ac-a3aa-bba6335f64fcproduct-gallery-07.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\793e1b74-95d2-48ac-a3aa-bba6335f64fcproduct-gallery-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\7f3a8dc0-3f02-43be-b7cb-7c173a4c292aproduct-gallery-01.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\7f3a8dc0-3f02-43be-b7cb-7c173a4c292aproduct-gallery-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\964ea4ad-67cf-437b-90bd-704e2c4e2d9aproduct-gallery-06.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\964ea4ad-67cf-437b-90bd-704e2c4e2d9aproduct-gallery-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\9e957af8-8287-4550-bd3a-b75c5db6e414product-gallery-14.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\9e957af8-8287-4550-bd3a-b75c5db6e414product-gallery-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\a863d140-0535-4b97-af89-65e74b09e514product-gallery-08.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\a863d140-0535-4b97-af89-65e74b09e514product-gallery-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\af1d336a-6404-44ad-8fcb-5f40c3479ae8product-gallery-02.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\af1d336a-6404-44ad-8fcb-5f40c3479ae8product-gallery-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\bbd4fb7f-647c-433a-91d2-de563542b395Screenshot 2024-02-22 222848.png",
+      "PackagePath": "staticwebassets\\upload\\product\\bbd4fb7f-647c-433a-91d2-de563542b395Screenshot 2024-02-22 222848.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\c1ee8b00-a197-42c5-a62d-7e82973b748fproduct-gallery-02.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\c1ee8b00-a197-42c5-a62d-7e82973b748fproduct-gallery-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\d25eca4c-6d65-409f-98e8-c44a726849bdScreenshot 2024-02-22 224205.png",
+      "PackagePath": "staticwebassets\\upload\\product\\d25eca4c-6d65-409f-98e8-c44a726849bdScreenshot 2024-02-22 224205.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\e08a22ba-da1c-4aef-9dc0-dbd9f08741eeScreenshot 2024-02-22 140816.png",
+      "PackagePath": "staticwebassets\\upload\\product\\e08a22ba-da1c-4aef-9dc0-dbd9f08741eeScreenshot 2024-02-22 140816.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\e1cbac4a-e1d3-4e28-b3c3-de9833e5a29cproduct-gallery-06.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\e1cbac4a-e1d3-4e28-b3c3-de9833e5a29cproduct-gallery-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\e383dc1f-9957-4cfc-bcbf-60ff97e3d4e5product-gallery-08.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\e383dc1f-9957-4cfc-bcbf-60ff97e3d4e5product-gallery-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\eab37b14-5fc4-4a2d-93e1-13547d032235product-gallery-03.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\eab37b14-5fc4-4a2d-93e1-13547d032235product-gallery-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\f0e1d777-a72a-4e9c-9e2f-bd074b591ae8Screenshot 2024-02-22 223518.png",
+      "PackagePath": "staticwebassets\\upload\\product\\f0e1d777-a72a-4e9c-9e2f-bd074b591ae8Screenshot 2024-02-22 223518.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\product\\f4b12206-5536-4778-b253-36d2e5b97d59Screenshot 2024-02-22 141524.png",
+      "PackagePath": "staticwebassets\\upload\\product\\f4b12206-5536-4778-b253-36d2e5b97d59Screenshot 2024-02-22 141524.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\section\\8ed05903-7c48-4778-a96a-f4f3b60993b2Screenshot 2024-02-10 180157.png",
+      "PackagePath": "staticwebassets\\upload\\section\\8ed05903-7c48-4778-a96a-f4f3b60993b2Screenshot 2024-02-10 180157.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\section\\8f404471-c17e-47c7-b9d7-f87fc1f4dd55Screenshot 2024-02-10 180152.png",
+      "PackagePath": "staticwebassets\\upload\\section\\8f404471-c17e-47c7-b9d7-f87fc1f4dd55Screenshot 2024-02-10 180152.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\section\\bb788c6f-7586-4da4-8439-fe93ed8e3ad6Screenshot 2024-02-10 175951.png",
+      "PackagePath": "staticwebassets\\upload\\section\\bb788c6f-7586-4da4-8439-fe93ed8e3ad6Screenshot 2024-02-10 175951.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\section\\fa7113db-229b-42b9-936e-bdecb70043eflanding-image-01.png",
+      "PackagePath": "staticwebassets\\upload\\section\\fa7113db-229b-42b9-936e-bdecb70043eflanding-image-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\slider\\12ac5e9c-f350-4e36-a4eb-10c20625d113hero-slider-white-12.jpg",
+      "PackagePath": "staticwebassets\\upload\\slider\\12ac5e9c-f350-4e36-a4eb-10c20625d113hero-slider-white-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\slider\\480acf6b-1646-41e4-9e0c-68b3673726d1hero-slider-06.jpg",
+      "PackagePath": "staticwebassets\\upload\\slider\\480acf6b-1646-41e4-9e0c-68b3673726d1hero-slider-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Qulqaz\\GlowingTemplate\\wwwroot\\upload\\slider\\b8f2d009-8e9e-48e1-bcd7-3862b0a97167hero-slider-15.jpg",
+      "PackagePath": "staticwebassets\\upload\\slider\\b8f2d009-8e9e-48e1-bcd7-3862b0a97167hero-slider-15.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GlowingTemplate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GlowingTemplate.props",
+      "PackagePath": "build\\GlowingTemplate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GlowingTemplate.props",
+      "PackagePath": "buildMultiTargeting\\GlowingTemplate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GlowingTemplate.props",
+      "PackagePath": "buildTransitive\\GlowingTemplate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

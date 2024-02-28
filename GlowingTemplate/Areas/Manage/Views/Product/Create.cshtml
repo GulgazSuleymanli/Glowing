@@ -1,0 +1,79 @@
+﻿@using GlowingTemplate.Areas.Manage.ViewModels;
+@using GlowingTemplate.Models;
+
+@model ProductCreateVM
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Default form</h4>
+            <p class="card-description">
+                Basic form layout
+            </p>
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Name">Name</label>
+                    <input asp-for="Name" class="form-control" id="Name" placeholder="Name">
+                    <span asp-validation-for="Name" style="color:red"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description">Description</label>
+                    <input asp-for="Description" class="form-control" id="Description" placeholder="Description">
+                    <span asp-validation-for="Description" style="color:red"></span>
+
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price">Price</label>
+                    <input asp-for="Price" class="form-control" id="Price" placeholder="Price">
+                    <span asp-validation-for="Price" style="color:red"></span>
+
+                </div>
+                <div class="form-group">
+                    <label asp-for="SKU">SKU</label>
+                    <input asp-for="SKU" class="form-control" id="SKU" placeholder="SKU">
+                    <span asp-validation-for="SKU" style="color:red"></span>
+
+                </div>
+                <div class="form-group">
+                    <label asp-for="CategoryId">Category</label>
+                    <select asp-for="CategoryId" class="form-control" id="CategoryId" placeholder="CategoryId">
+                        @foreach (Category item in ViewBag.Categories)
+                        {
+                            <option value="@item.Id">@item.Name</option>
+                        }
+                    </select>
+                    <span asp-validation-for="CategoryId" style="color:red"></span>
+
+                </div>
+                
+                <div class="form-group">
+                    <label asp-for="Size" class="form-label">Size</label>
+                    <input class="form-control" asp-for="Size">
+                    <span asp-validation-for="Size" style="color:red"></span>
+                </div>
+
+                 <div class="row align-items-center">
+            <div class="mb-3 col-md-4">
+                <label asp-for="MainPhoto" class="form-label">MainPhoto</label>
+                <input class="form-control" asp-for="MainPhoto">
+                <span asp-validation-for="MainPhoto" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label asp-for="HoverPhoto" class="form-label">HoverPhoto</label>
+                <input class="form-control" asp-for="HoverPhoto">
+                <span asp-validation-for="HoverPhoto" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label asp-for="Photo" class="form-label">Additional Photo</label>
+                <input class="form-control" asp-for="Photo">
+                <span asp-validation-for="Photo" style="color:red"></span>
+            </div>
+        </div>
+
+
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+
+            </form>
+        </div>
+    </div>
+</div>

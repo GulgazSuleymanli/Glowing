@@ -1,0 +1,35 @@
+﻿@using GlowingTemplate.ViewModels.Account;
+@model LoginVM
+
+
+<div class="modal-content">
+    <div class="modal-header text-center border-0 pb-0">
+        <button type="button" class="btn-close position-absolute end-5 top-5" data-bs-dismiss="modal" aria-label="Close"></button>
+        <h3 class="modal-title w-100" id="signInModalLabel">Sign In</h3>
+    </div>
+    <div class="modal-body px-sm-13 px-8">
+        <p class="text-center fs-16 mb-10">Don’t have an account yet? <a href="#" data-bs-toggle="modal" data-bs-target="#signUpModal" class="text-black">Sign up</a> for free</p>
+        <form action="#">
+            <div class="col-md-12 col-12 mb--15">
+                <label asp-for="UserName"></label>
+                <input class="mb-0 form-control" asp-for="UserName"
+                       placeholder="Enter your Email or Username">
+                <span asp-validation-for="UserName"></span>
+            </div>
+            <div class="col-md-12 col-12 mb--15">
+                <label asp-for="Password"></label>
+                <input class="mb-0 form-control" asp-for="Password"
+                       placeholder="Enter your Password">
+                <span asp-validation-for="Password"></span>
+            </div>
+            <button type="submit" value="Login" class="btn btn-dark btn-hover-bg-primary btn-hover-border-primary w-100">Log In</button>
+        </form>
+    </div>
+    <div class="modal-footer px-13 pt-0 pb-12 border-0">
+        <div class="border-bottom w-100"></div>
+        <div class="text-center lh-1 mb-8 w-100 mt-n5">
+            <span class="fs-14 bg-body lh-1 px-4">or Log-in with</span>
+        </div>
+       
+    </div>
+</div>

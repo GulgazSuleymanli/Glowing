@@ -1,0 +1,38 @@
+﻿@using GlowingTemplate.Models;
+@model List<FAQ>
+@{
+    int count = 0;
+}
+
+
+<div class="container pt-3">
+    <div class="d-flex justify-content-around">
+        <h3>FAQ</h3>
+        <a class="btn btn-success" asp-controller="FAQ" asp-action="Create">Create</a>
+    </div>
+    <table class="table table-secondary table-striped text-dark">
+        <thead>
+            <tr>
+                <th scope="col">No</th>
+                <th scope="col">Question</th>
+                <th scope="col">Answer</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                count++;
+                <tr>
+                    <th scope="row">@count</th>
+                    <td>@item.Question</td>
+                    <td>@item.Answer</td>
+                    <td>
+                        <a class="btn btn-primary" asp-controller="FAQ" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                        <a class="btn btn-danger" asp-controller="FAQ" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

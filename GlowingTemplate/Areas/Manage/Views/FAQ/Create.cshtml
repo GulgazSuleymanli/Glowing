@@ -1,0 +1,21 @@
+﻿@using GlowingTemplate.Models;
+@model FAQ
+
+<div class="container pt-3">
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="Question">Question</label>
+            <input asp-for="Question" class="form-control" id="Question" placeholder="Question">
+            <span asp-validation-for="Question"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Answer">Answer</label>
+            <input asp-for="Answer" class="form-control" id="Answer" placeholder="Answer">
+            <span asp-validation-for="Answer"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+
+

@@ -1,0 +1,52 @@
+﻿@using GlowingTemplate.Models;
+@model List<Section>
+@{
+    int count = 0;
+}
+
+<div class="col-lg-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Basic Table</h4>
+            <p class="card-description">
+                Add class <code>.table</code>
+            </p>
+            <a class="btn btn-success" asp-controller="Section" asp-action="Create">Create</a>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Count</th>
+                            <th>Title</th>
+                            <th>Description</th>
+                            <th>Image</th>
+                            <th>Button</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            count++;
+                            <tr>
+
+                                <td>@count</td>
+                                <td>@item.Title</td>
+                                <td>@item.Description</td>
+                                <td><img src="~/upload/section/@item.ImageUrl" /></td>
+                                <td>
+                                    <a class="btn btn-info" asp-controller="Section" asp-action="Update" asp-area="Manage" asp-route-id=@item.Id>Update</a>
+                                    <a class="btn btn-danger" asp-controller="Section" asp-action="Delete" asp-area="Manage" asp-route-id=@item.Id>Delete</a>
+
+                                </td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

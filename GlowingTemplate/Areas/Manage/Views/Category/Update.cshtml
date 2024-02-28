@@ -1,0 +1,31 @@
+﻿@using GlowingTemplate.Models;
+
+@model Category
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Default form</h4>
+            <p class="card-description">
+                Basic form layout
+            </p>
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Name">Name</label>
+                    <input asp-for="Name" class="form-control" id="Name" placeholder="Name">
+                    <span asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ImageFile">Image</label>
+                    <input asp-for="ImageFile" class="form-control" id="Image" placeholder="Image">
+                    <span asp-validation-for="ImageUrl"></span>
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+
+            </form>
+        </div>
+    </div>
+</div>
+
+
+

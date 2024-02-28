@@ -1,0 +1,247 @@
+﻿@model List<Product>
+@{
+    int count = (ViewBag.CurrentPage - 1) * 6;
+}
+
+<main id="content" class="wrapper layout-page">
+    <section class="page-title z-index-2 position-relative">
+        <div class="bg-body-secondary">
+            <div class="container">
+                <nav class="py-4 lh-30px" aria-label="breadcrumb">
+                    <ol class="breadcrumb justify-content-center py-1">
+                        <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Shop Alternating</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+        <div class="text-center py-13">
+            <div class="container">
+                <h2 class="mb-0">Shop Alternating</h2>
+            </div>
+        </div>
+    </section>
+    
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title fs-3" id="offcanvasExampleLabel">Filter</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <aside class="primary-sidebar ">
+                <div class="widget widget-product-category">
+                    <h4 class="widget-title fs-5 mb-6">Category</h4>
+                    <ul class="navbar-nav navbar-nav-cate" id="widget_product_category">
+                        <li class="nav-item">
+                            <a href="#" title="Body Care" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center text-uppercase fs-14px fw-semibold letter-spacing-5"><span class="text-hover-underline">Body Care</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="Skin care" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center text-uppercase fs-14px fw-semibold letter-spacing-5 active">
+                                <span class="text-hover-underline me-2">Skin care </span>
+                                <span data-bs-toggle="collapse" data-bs-target="#cat_skin-care" class="caret flex-grow-1 d-flex align-items-center justify-content-end collapsed"><svg class="icon"><use xlink:href="#icon-plus"></use></svg></span>
+                            </a>
+                            <div id="cat_skin-care" class="collapse show" data-bs-parent="#widget_product_category">
+                                <ul class="navbar-nav nav-submenu ps-8">
+                                    <li class="nav-item">
+                                        <a class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center" href="#"><span class="text-hover-underline">Cleanser</span></a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center" href="#"><span class="text-hover-underline">Toner</span></a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center" href="#"><span class="text-hover-underline">Scrubs &amp; Masks</span></a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center" href="#"><span class="text-hover-underline">Serum</span></a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center" href="#"><span class="text-hover-underline">Face Oils</span></a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center" href="#"><span class="text-hover-underline">Moisturizer</span></a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center" href="#"><span class="text-hover-underline">Eye Cream</span></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="Hair Care" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center text-uppercase fs-14px fw-semibold letter-spacing-5"><span class="text-hover-underline">Hair Care</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="Accessories" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center text-uppercase fs-14px fw-semibold letter-spacing-5"><span class="text-hover-underline">Accessories</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="widget widget-product-hightlight">
+                    <h4 class="widget-title fs-5 mb-6">Hightlight</h4>
+                    <ul class="navbar-nav navbar-nav-cate" id="widget_product_hightlight">
+                        <li class="nav-item">
+                            <a href="#" title="Best Seller" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">Best Seller</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="New Arrivals" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">New Arrivals</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="Sale" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">Sale</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="Hot Items" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">Hot Items</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="widget widget-product-price">
+                    <h4 class="widget-title fs-5 mb-6">Price</h4>
+                    <ul class="navbar-nav navbar-nav-cate" id="widget_product_price">
+                        <li class="nav-item">
+                            <a href="#" title="All" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">All</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="$10 - $50" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">$10 - $50</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="$50 - $100" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">$50 - $100</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="$100 - $200" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">$100 - $200</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="widget widget-product-size">
+                    <h4 class="widget-title fs-5 mb-6">Size</h4>
+                    <ul class="navbar-nav navbar-nav-cate" id="widget_product_size">
+                        <li class="nav-item">
+                            <a href="#" title="Single" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">Single</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="5 Pack" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">5 Pack</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="Full size" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">Full size</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="Mini size" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="text-hover-underline">Mini size</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="widget widget-product_colors">
+                    <h4 class="widget-title fs-5 mb-6">Colors</h4>
+                    <ul class="navbar-nav navbar-nav-cate" id="widget_product_colors">
+                        <li class="nav-item">
+                            <a href="#" title="Black" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="square rounded-circle me-4" style="background-color: #000000"></span> <span class="text-hover-underline">Black</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="White" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="square rounded-circle me-4" style="background-color: #FFFFFF"></span> <span class="text-hover-underline">White</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="Pink" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="square rounded-circle me-4" style="background-color: #0E328E"></span> <span class="text-hover-underline">Pink</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="Maroon" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="square rounded-circle me-4" style="background-color: #672612"></span> <span class="text-hover-underline">Maroon</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="Red" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="square rounded-circle me-4" style="background-color: #C71818"></span> <span class="text-hover-underline">Red</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" title="Dark Heathe" class="text-reset position-relative d-block text-decoration-none text-body-emphasis-hover d-flex align-items-center"><span class="square rounded-circle me-4" style="background-color: #5E5E5E"></span> <span class="text-hover-underline">Dark Heathe</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="widget widget-tags">
+                    <h4 class="widget-title fs-5 mb-6">Tags</h4>
+                    <ul class="w-100 mt-n4 list-unstyled d-flex flex-wrap mb-0">
+                        <li class="me-6 mt-4">
+                            <a href="#" title="Cleansing" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">Cleansing</a>
+                        </li>
+                        <li class="me-6 mt-4">
+                            <a href="#" title="Make up" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">Make up</a>
+                        </li>
+                        <li class="me-6 mt-4">
+                            <a href="#" title="eye cream" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">eye cream</a>
+                        </li>
+                        <li class="me-6 mt-4">
+                            <a href="#" title="nail" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">nail</a>
+                        </li>
+                        <li class="me-6 mt-4">
+                            <a href="#" title="shampoo" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">shampoo</a>
+                        </li>
+                        <li class="me-6 mt-4">
+                            <a href="#" title="coffee bean" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">coffee bean</a>
+                        </li>
+                        <li class="me-6 mt-4">
+                            <a href="#" title="healthy" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">healthy</a>
+                        </li>
+                        <li class="me-6 mt-4">
+                            <a href="#" title="skin care" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">skin care</a>
+                        </li>
+                        <li class="me-6 mt-4">
+                            <a href="#" title="sale" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">sale</a>
+                        </li>
+                        <li class="me-6 mt-4">
+                            <a href="#" title="Cosmetics" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">Cosmetics</a>
+                        </li>
+                        <li class="me-6 mt-4">
+                            <a href="#" title="Natural cleansers" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">Natural cleansers</a>
+                        </li>
+                        <li class="me-6 mt-4">
+                            <a href="#" title="Organic" class="text-reset d-block text-decoration-none text-body-emphasis-hover text-hover-underline">Organic</a>
+                        </li>
+                    </ul>
+                </div>
+            </aside>
+        </div>
+    </div>
+    <div class="container container-xxl pb-16 pb-lg-18 mb-lg-3">
+        <div class="row gy-50px">
+            @foreach (var item in Model)
+            {
+                <div class="col-sm-6  col-lg-4">
+                    <div class="card card-product grid-1 bg-transparent border-0" data-animate="fadeInUp">
+                        <figure class="card-img-top position-relative mb-7 overflow-hidden ">
+                            <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id" class="hover-zoom-in d-block" title="Shield Conditioner">
+                                <img src="~/upload/product/@item.ProductImages.FirstOrDefault(i=>i.IsPrime==true)?.ImageUrl" class="img-fluid lazy-image w-100" alt="Shield Conditioner" width="450" height="600">
+                            </a>
+
+                            <div class="position-absolute d-flex z-index-2 product-actions  horizontal">
+                                <a class="text-body-emphasis bg-body bg-dark-hover text-light-hover rounded-circle square product-action shadow-sm add_to_cart" href="#" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart">
+                                    <svg class="icon icon-shopping-bag-open-light">
+                                        <use xlink:href="#icon-shopping-bag-open-light"></use>
+                                    </svg>
+                                </a><a class="text-body-emphasis bg-body bg-dark-hover text-light-hover rounded-circle square product-action shadow-sm quick-view" href="#" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Quick View">
+                                    <span data-bs-toggle="modal" data-bs-target="#quickViewModal" class="d-flex align-items-center justify-content-center">
+                                        <svg class="icon icon-eye-light">
+                                            <use xlink:href="#icon-eye-light"></use>
+                                        </svg>
+                                    </span>
+                                </a>
+                               
+                            </div>
+                        </figure>
+                        <div class="card-body text-center p-0">
+                            <span class="d-flex align-items-center price text-body-emphasis fw-bold justify-content-center mb-3 fs-6">
+
+                                <ins class="text-decoration-none">$@item.Price</ins>
+                            </span>
+                            <h4 class="product-title card-title text-primary-hover text-body-emphasis fs-15px fw-500 mb-3"><a class="text-decoration-none text-reset" href="product-details-v1.html">Shield Conditioner</a></h4>
+
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+        <nav class="d-flex mt-13 pt-3 justify-content-center" aria-label="pagination" data-animate="fadeInUp">
+            <ul class="pagination m-0">
+                
+                
+                @for (int i = 0; i < ViewBag.TotalPage; i++)
+                {
+                    <li class="page-item"><a class="page-link @(ViewBag.CurrentPage==i?"active":"" )" href="#">1</a></li>
+                }
+               
+                
+            </ul>
+        </nav>
+    </div>
+</main>

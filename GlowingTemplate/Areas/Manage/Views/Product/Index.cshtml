@@ -1,0 +1,79 @@
+﻿@using GlowingTemplate.Areas.Manage.ViewModels;
+@using GlowingTemplate.Models;
+
+@model List<Product>
+@{
+    int count = (ViewBag.CurrentPage - 1) * 3;
+}
+
+
+<div class="grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Product</h4>
+            <p class="card-description">
+                Add class <code>.table</code>
+            </p>
+            <a class="btn btn-success" asp-controller="Product" asp-action="Create">Create</a>
+            <span style='color:red'>@TempData["Error"]</span>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Count</th>
+                            <th>Name</th>
+                            <th>Description</th>
+                            <th>Price</th>
+                            <th>SKU</th>
+                            <th>Size</th>
+                            <th>Category</th>
+
+                            <th>Image</th>
+                            <th>Button</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Product product in Model)
+                        {
+                            count++;
+                            <tr>
+
+                                <td>@count</td>
+                                <td>@product.Name</td>
+                                <td>@product.Description</td>
+                                <td>@product.Price</td>
+                                <td>@product.SKU</td>
+                                <td>@product.Size</td>
+                                <td>@product.Category.Name</td>
+
+                                <td><img src="~/upload/product/@product.ProductImages.FirstOrDefault(p=>p.IsPrime==true).ImageUrl" /></td>
+
+                                <td>
+                                    <a class="btn btn-info" asp-controller="Product" asp-action="Update" asp-area="Manage" asp-route-id=@product.Id>Update</a>
+                                    <a class="btn btn-danger" asp-controller="Product" asp-action="Delete" asp-area="Manage" asp-route-id=@product.Id>Delete</a>
+
+                                </td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+   
+</div>
+<nav aria-label="...">
+    <ul class="pagination pagination-lg">
+        @for (int i = 1; i <= ViewBag.TotalPage; i++)
+        {
+            <li class="page-item @(ViewBag.CurrentPage==i?"active":"" )" aria-current="page">
+                <a class="page-link" asp-action="Index" asp-controller="Product" asp-route-page=@i>@i</a>
+            </li>
+        }
+
+    </ul>
+</nav>
+
